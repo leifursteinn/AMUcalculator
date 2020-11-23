@@ -1,1 +1,1 @@
-# AMUcalculator
+# Atomic Mass Unit Calculator
