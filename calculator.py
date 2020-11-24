@@ -10,7 +10,6 @@ M = {'H': 1.00794, 'He' : 4.0026, 'Li' :  6.941, 'Be' : 9.0122, 'B' : 10.811, 'C
 
 x = 1
 y = 0
-inc = str()
 output = []
 calculate = 0
 elements = int(input("How many different elements are in the formula? H20 would be 2: "))
